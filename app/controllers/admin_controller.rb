@@ -2,6 +2,6 @@ class AdminController < ApplicationController
   before_action :authenticate_admin!
   def index
   end
-  def crete
+  def create
   end
 end
